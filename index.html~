@@ -100,7 +100,7 @@
 			</div>
 			
 			<div class="element android education">
-				<h5 align="center">Educational Content on Aakash</h5>
+				<h5 align="center"></h5>
 				<p>Educational content app is used to access educational 
 				contents present on sdcard  in .pdf, .html, or .mp4 formats.</p>
 				<img src="images/diaslate.png">
